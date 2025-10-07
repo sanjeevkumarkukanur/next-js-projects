@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 11, "column": 0}, "map": {"version":3,"sources":["file:///Users/sanjeev/my%20files/new-product-application/next-js-projects/next-js-init-setup/src/app/%28locale%29/about/page.tsx"],"sourcesContent":["export default function AboutPage() {\n  return (\n    <main className=\"container mx-auto px-6 py-10\">\n      <h1 className=\"text-3xl font-bold mb-4\">About Us</h1>\n      <p>\n        We are a forward-thinking company dedicated to delivering excellent solutions and services that push the boundaries of innovation.\n      </p>\n    </main>\n  );\n}\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,odAAC;QAAK,WAAU;;0BACd,odAAC;gBAAG,WAAU;0BAA0B;;;;;;0BACxC,odAAC;0BAAE;;;;;;;;;;;;AAKT","debugId":null}}]
+}

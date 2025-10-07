@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 11, "column": 0}, "map": {"version":3,"sources":["file:///Users/sanjeev/my%20files/new-product-application/next-js-projects/next-js-init-setup/src/app/%28locale%29/services/page.tsx"],"sourcesContent":["export default function ServicesPage() {\n  const services = ['Web Development', 'Mobile Apps', 'Cloud Solutions', 'UI/UX Design'];\n\n  return (\n    <main className=\"container mx-auto px-6 py-10\">\n      <h1 className=\"text-3xl font-bold mb-4\">Our Services</h1>\n      <ul className=\"list-disc pl-6 space-y-2\">\n        {services.map((service, index) => (\n          <li key={index}>{service}</li>\n        ))}\n      </ul>\n    </main>\n  );\n}\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,MAAM,WAAW;QAAC;QAAmB;QAAe;QAAmB;KAAe;IAEtF,qBACE,odAAC;QAAK,WAAU;;0BACd,odAAC;gBAAG,WAAU;0BAA0B;;;;;;0BACxC,odAAC;gBAAG,WAAU;0BACX,SAAS,GAAG,CAAC,CAAC,SAAS,sBACtB,odAAC;kCAAgB;uBAAR;;;;;;;;;;;;;;;;AAKnB","debugId":null}}]
+}

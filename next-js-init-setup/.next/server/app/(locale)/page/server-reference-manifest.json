@@ -1,0 +1,20 @@
+{
+  "node": {
+    "007433ab786cdd5437684fe7b8eeeade8443c2dca6": {
+      "workers": {
+        "app/(locale)/page": {
+          "moduleId": "[project]/my files/new-product-application/next-js-projects/next-js-init-setup/.next-internal/server/app/(locale)/page/actions.js { ACTIONS_MODULE0 => \"[project]/my files/new-product-application/next-js-projects/next-js-init-setup/src/app/(locale)/page.tsx [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "default",
+          "filename": "my files/new-product-application/next-js-projects/next-js-init-setup/src/app/(locale)/page.tsx"
+        }
+      },
+      "layer": {
+        "app/(locale)/page": "rsc"
+      },
+      "exportedName": "default",
+      "filename": "my files/new-product-application/next-js-projects/next-js-init-setup/src/app/(locale)/page.tsx"
+    }
+  },
+  "edge": {}
+}

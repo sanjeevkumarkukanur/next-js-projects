@@ -1,0 +1,52 @@
+{
+  "HomePage": {
+    "hero": {
+      "titleLines": [
+        "Obtenez des Solutions IT Intelligentes",
+        "Pour Votre Entreprise",
+        "HG Infotech"
+      ],
+      "highlight": "HG Infotech"
+    },
+    "about": {
+      "intro": "Les entreprises à travers Singapour, l'Inde, le Royaume-Uni, le Canada, les Émirats Arabes Unis et les États-Unis font confiance à HG Infotech.",
+      "details": [
+        "Nous livrons une intégration complète, de bout en bout, dans la finance, la chaîne d'approvisionnement et la fabrication—énergisé par SAP S/4HANA.",
+        "Transformation digitale SAP CRM, CX et ERP",
+        "Implémentation de SAP S/4HANA de bout en bout pour la vente au détail, les télécommunications, la pharmacie, les utilities, le pétrole et le gaz, la fabrication",
+        "Solutions évolutives pour les fabricants de taille moyenne à grande",
+        "Pour PME et startups avec SAP Business One"
+      ],
+      "closing": "HG Infotech est le partenaire des entreprises intelligentes, prêtes pour l'avenir."
+    },
+    "services": [
+      {
+        "title": "Experts en déploiement multinationale SAP CX",
+        "description": "Réduisez de 40 % les coûts informatiques avec SAP COE et un accélérateur personnalisé"
+      },
+      {
+        "title": "Recrutez des Développeurs SAP Vetted en 24 heures alimentés par l'IA",
+        "description": "Accélérez le recrutement avec l'Intelligence Artificielle et des bots d'entretien pour les experts SAP"
+      },
+      {
+        "title": "Développeurs offshore dans 5 zones horaires",
+        "description": "Augmentez l'efficacité et réduisez les coûts jusqu'à 60% avec des solutions offshore flexibles"
+      }
+    ],
+    "stats": [
+      { "number": "500+", "label": "Projets Réalisés" },
+      { "number": "5", "label": "Bureaux Globaux" },
+      { "number": "9+", "label": "Années d'Expérience" },
+      { "number": "1,000+", "label": "Employés" }
+    ],
+    "partners": [
+      { "src": "/greyt-logo.png", "alt": "greyt" },
+      { "src": "/keka-logo.png", "alt": "keka" },
+      { "src": "/salesforce-logo.png", "alt": "salesforce" },
+      { "src": "https://hginfotech.io/wp-content/uploads/elementor/thumbs/AWS-r3rg8fvsjkouupxxkxbhrtmsbk2llqy6c7dgmusz8c.png", "alt": "aws" },
+      { "src": "https://hginfotech.io/wp-content/uploads/elementor/thumbs/Microsoft-r3rg8zmej3fvmj59dnunq6ngsndb3e4jex2npnzplo.png", "alt": "microsoft" },
+      { "src": "/zoho-logo.png", "alt": "zoho" },
+      { "src": "https://hginfotech.io/wp-content/uploads/elementor/thumbs/Workday-r3rg8t1j796vd9etg309qqb8my9qlief20i9cq9gt8.png", "alt": "workday" }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "HomePage": {
+    "hero": {
+      "titleLines": [
+        "Get Smart IT",
+        "Solutions For",
+        "Your Business."
+      ],
+      "highlight": "HG Infotech"
+    },
+    "about": {
+      "intro": "Businesses across Singapore, India, the UK, Canada, the UAE, and the USA trust HG Infotech.",
+      "details": [
+        "We deliver deep, end-to-end integration across finance, supply chain, and manufacturing—powered by SAP S/4HANA.",
+        "SAP CRM and CX and ERP digital transformation",
+        "End-to-end SAP S/4HANA implementation for Retail, Telecom, Pharma, Utilities, Oil & Gas, Manufacturing",
+        "Scalable solutions for medium to large manufacturers",
+        "For SMBs & startups with SAP Business One"
+      ],
+      "closing": "HG Infotech is the partner for intelligent, future-ready enterprises."
+    },
+    "services": [
+      {
+        "title": "SAP CX multi-country rollout experts",
+        "description": "Drive 40% IT Cost Reduction with SAP COE & custom accelerator"
+      },
+      {
+        "title": "Hire SAP–Vetted Developers in 24 Hours Powered by AI",
+        "description": "Accelerate hiring with AI-driven Talent Acquisition and Interview Bots for SAP Experts"
+      },
+      {
+        "title": "Offshore Developers Across 5 Time Zones",
+        "description": "Boost efficiency and reduce costs by up to 60% with flexible offshore solutions"
+      }
+    ],
+    "stats": [
+      { "number": "500+", "label": "Projects Completed" },
+      { "number": "5", "label": "Global Offices" },
+      { "number": "9+", "label": "Years Of Experience" },
+      { "number": "1,000+", "label": "Employees" }
+    ],
+    "partners": [
+      { "src": "/greyt-logo.png", "alt": "greyt" },
+      { "src": "/keka-logo.png", "alt": "keka" },
+      { "src": "/salesforce-logo.png", "alt": "salesforce" },
+      { "src": "https://hginfotech.io/wp-content/uploads/elementor/thumbs/AWS-r3rg8fvsjkouupxxkxbhrtmsbk2llqy6c7dgmusz8c.png", "alt": "aws" },
+      { "src": "https://hginfotech.io/wp-content/uploads/elementor/thumbs/Microsoft-r3rg8zmej3fvmj59dnunq6ngsndb3e4jex2npnzplo.png", "alt": "microsoft" },
+      { "src": "/zoho-logo.png", "alt": "zoho" },
+      { "src": "https://hginfotech.io/wp-content/uploads/elementor/thumbs/Workday-r3rg8t1j796vd9etg309qqb8my9qlief20i9cq9gt8.png", "alt": "workday" }
+    ]
+  }
+}
